@@ -11,10 +11,10 @@
 
 <g transform="translate(80,118) scale(1.25)">
   <rect x="0" y="0" width="108" height="108" rx="30" fill="#1B3D2F"/>
-  <g transform="translate(-3 0)"><g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+  <g transform="translate(54 54) scale(0.78) translate(-54 -54)"><g transform="translate(-3 0)"><g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="7">
   <path d="M57,45 L44,45 A9,9 0 0 0 44,63 L64,63 A9,9 0 0 0 73,54" stroke="#9FD3B6"/>
   <path d="M57,35 L44,35 A19,19 0 0 0 44,73 L64,73 A19,19 0 0 0 83,54 L83,48" stroke="#F2F7F3"/>
-  <path d="M77,51 L83,45 L89,51" stroke="#F2F7F3"/></g></g>
+  <path d="M77,51 L83,45 L89,51" stroke="#F2F7F3"/></g></g></g>
 </g>
 <text x="80" y="345" font-family="Inter Display" font-weight="600" font-size="78" fill="#F2F7F3" letter-spacing="-1.5">DWR Sync</text>
 <text font-family="Inter" font-size="28" fill="#CFE6D8">

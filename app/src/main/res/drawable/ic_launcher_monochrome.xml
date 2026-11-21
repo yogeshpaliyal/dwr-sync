@@ -5,25 +5,32 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
+    <!-- Scaled to 78% around the centre for padding inside the icon mask -->
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="0.78"
+        android:scaleY="0.78">
     <group android:translateX="-3">
         <path
             android:pathData="M57,45 L44,45 A9,9 0 0 0 44,63 L64,63 A9,9 0 0 0 73,54"
             android:strokeColor="#FF000000"
             android:strokeAlpha="0.55"
-            android:strokeWidth="6"
+            android:strokeWidth="7"
             android:strokeLineCap="round"
             android:strokeLineJoin="round" />
         <path
             android:pathData="M57,35 L44,35 A19,19 0 0 0 44,73 L64,73 A19,19 0 0 0 83,54 L83,48"
             android:strokeColor="#FF000000"
-            android:strokeWidth="6"
+            android:strokeWidth="7"
             android:strokeLineCap="round"
             android:strokeLineJoin="round" />
         <path
             android:pathData="M77,51 L83,45 L89,51"
             android:strokeColor="#FF000000"
-            android:strokeWidth="6"
+            android:strokeWidth="7"
             android:strokeLineCap="round"
             android:strokeLineJoin="round" />
+    </group>
     </group>
 </vector>
